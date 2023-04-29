@@ -11,4 +11,6 @@
 - ***Guest Restrictions***: Please inform the host in advance if there are guests visiting, and make sure the guests abide by the above regulations. At the same time, please do not stay guests in the common area, so as not to affect the lives of other tenants.
 - ***Timely communication***: If you have any questions or suggestions about the common areas, please communicate with the landlord and other tenants in time to jointly maintain a harmonious living environment.
 
+----position number: 2----
+
 ![image](https://github.com/Yangtze-zzz/Mixed_Reality/blob/main/egg.jpg)
