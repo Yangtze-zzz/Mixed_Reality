@@ -10,4 +10,8 @@
 - ***Timely repairs***: If you find that the bathroom facilities are damaged or there are potential safety hazards, please notify the landlord in time for repairs.
 - ***Timely communication***: If you have any questions or suggestions about the bathroom, please communicate with the landlord and other tenants in time to jointly maintain a harmonious living environment.
 
+----position number: 1----
+
 ![image](https://github.com/Yangtze-zzz/Mixed_Reality/blob/main/egg.jpg)
+
+
